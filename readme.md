@@ -5,3 +5,6 @@ MULTIPLE CONTROL BROWSER
 - Source
   > src Kasus = https://github.com/bgstaal/multipleWindow3dScene
   > scr Learn = https://youtube.com/watch?v=hGnvpwfGHGE
+
+* assignment
+    > menambahkan object yang di kontrol do kedua browser (bukan cuma 1)
